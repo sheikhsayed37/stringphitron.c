@@ -6,5 +6,6 @@ int main()
     scanf("%s %s",&st, &sd);
 
     printf("%d",strcmp(st,sd));
+    return 0;
         
 }

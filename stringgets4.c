@@ -3,6 +3,7 @@
 int main()
 {
     char st[45];
+
     gets(st);
- printf("%s",st);
+    printf("%s",st);
 }

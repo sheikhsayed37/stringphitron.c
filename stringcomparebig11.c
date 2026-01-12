@@ -6,6 +6,7 @@ int main()
     scanf("%s %s",&st, &sd);
 
     int value=strcmp(st,sd);
+    
 
     if(value>0)
     {

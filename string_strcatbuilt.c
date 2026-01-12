@@ -4,7 +4,7 @@ int main()
 {
     char st[233],sd[3445];
     scanf("%s %s",&st ,&sd);
- strcat(st,sd);
+  strcat(st,sd);
 printf("%s %s",st ,sd);
 
 
